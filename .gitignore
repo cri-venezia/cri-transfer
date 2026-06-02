@@ -1,0 +1,6 @@
+.idea
+node_modules/
+.env
+dump.json
+supabase_posts.json
+supabase_profiles.json
